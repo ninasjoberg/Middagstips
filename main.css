@@ -1,0 +1,50 @@
+
+body{
+	width: 100%
+	height: 100%;
+	margin: 0;
+	background-color: #60ABA7;
+	color: #276A70;
+	font-family: helvetica;
+}
+
+main{
+	max-width: 75%;
+	margin: auto;
+	text-align: center;
+}
+
+#middagstips{
+	margin-top: 5%;
+	font-size: 3vw;
+	background-color: #DB6267;
+	color: #276A70;
+}
+
+#vegBox{
+	margin-top: 5%;
+	font-size: 3vw;
+}
+
+#box{
+	background-color: #DB6267;
+	height: 25vw;
+	width: 75vw;
+	margin: auto;
+	margin-top: 10%;
+	-webkit-box-shadow: 5px 5px 18px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 18px 0px rgba(0,0,0,0.75);
+	box-shadow: 5px 5px 18px 0px rgba(0,0,0,0.75);
+}
+
+#foodP{
+	font-size: 5vw;
+	display: inline-block;
+	margin-top: 5vw;
+}
+
+#link{
+	font-size: 3vw;
+	margin-top: 10vw;
+	color: #276A70;
+}
