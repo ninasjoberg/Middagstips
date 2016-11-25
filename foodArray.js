@@ -1,3 +1,4 @@
+//här är min lista med maträtter:
 
 var food = [
 	{
@@ -106,7 +107,7 @@ var food = [
 		url: 'http://www.ica.se/recept/falafel-med-hummus-yoghurtdressing-och-picklad-rodlok-717166/',
 	},
 	{
-		title: 'Bönpiffar med tillbehör',
+		title: 'Bönbiffar med tillbehör',
 		isVeg: true,
 		url: 'https://www.landleyskok.se/recept/bonbiffar-med-lackra-tillbehor.html/',
 	},
@@ -115,4 +116,4 @@ var food = [
 		isVeg: false,
 		url: 'http://www.ica.se/recept/korvstroganoff-med-ris-533512/',
 	},
-]
+];
